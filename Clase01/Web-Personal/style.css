@@ -1,0 +1,21 @@
+body {
+  margin: 5%;
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: #d8333b;
+  text-decoration: underline;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #463f40;
+  font-size: 18px;
+}
+
+a {
+  color: #cc4e05;
+  text-decoration: none;
+}
